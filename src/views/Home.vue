@@ -21,7 +21,7 @@
         <h1 style="text-align:center;">The Cedarbeard Lore</h1>
       </div>
       <div class="desc" style="padding-top:4rem;max-width:720px;margin:auto;">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>Cafe Cedarbeard is the container is the container for the diverse arts of Greg's crafting. The visual channel is inspired by psychadelic explorers from all human history. Tarot and Tantric images inform the organization of these painting and drawings. All the characters of Nature of the subjects of these works. Symbols from Hermetic philosophy are woven throughout, weaving images that the viewer on a little trip.</p>
 
       </div>
       
